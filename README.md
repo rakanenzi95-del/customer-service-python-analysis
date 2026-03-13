@@ -1,2 +1,14 @@
-# customer-service-python-analysis
-Customer Support Performance Analysis using Python and Pandas. Analyzed ticket data to evaluate agent performance, CSAT, ticket closure rate, priority distribution, and resolution time.
+Customer Service Data Analysis (Python)
+
+This project analyzes customer support ticket data to evaluate:
+
+* Agent performance  
+* Customer satisfaction (CSAT)  
+* Ticket closure rate  
+* Resolution time  
+
+Tools used:
+Python  
+Pandas  
+Matplotlib  
+Seaborn
