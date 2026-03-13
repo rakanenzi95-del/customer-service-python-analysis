@@ -1,3 +1,38 @@
+# Customer Service Performance Analysis (Python)
+
+This project analyzes customer support ticket data using *Python and Pandas* to evaluate agent performance and customer satisfaction.
+
+## Project Goals
+- Analyze ticket volume per agent
+- Measure Customer Satisfaction (CSAT)
+- Calculate ticket closure rate
+- Evaluate resolution time performance
+- Identify top performing agents
+
+## Tools Used
+- Python
+- Pandas
+- Data Analysis
+
+## Key Insights
+- Identified top performing agents based on ticket volume
+- Measured average CSAT for each support agent
+- Calculated ticket closure rate
+- Analyzed ticket priority distribution
+- Evaluated average resolution time per agent
+
+## Example Analysis
+The project calculates:
+
+- Tickets handled by each agent
+- Best agent by ticket volume
+- Best agent by CSAT
+- Fastest agent by resolution time
+
+## Author
+Sara Alsubaie
+
+
 import pandas as pd
 
 df = pd.read_csv("customer_service_python_project_dataset.csv")
